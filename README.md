@@ -1,30 +1,31 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Lijian lab webpage
+still a lot are under construction
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+First written on 10/10/2018 by [Haoxue Fan](https://github.com/jianlilab/jianlilab.github.io)
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Re-written on 20/07/2019 by Kuo Liu
 
-## Preview
+If there's any suggestion about out website / any inquiry about further info, don't hesitate and please shoot an email to  kuoliu93@gmail.com! 
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+====================
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+This website was built using the TaylanTatli's theme Moon as a template.  This theme is open-source and available on [Github](https://github.com/TaylanTatli/Moon.git). 
 
-## Getting Started
+====================
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+Before modify this web, please append your path file with the following, replacing the X.X with the first two digits of your Ruby version. 
+
+```
+export PATH=$HOME/.gem/ruby/X.X.0/bin:$PATH
+```
+
+
+Then check the plugins in Gemfile, and build a local serve to modify this web
+
+```
+install bundler
+bundle exec jekyll serve
+
+```
+
+
