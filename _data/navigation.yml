@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Publications
+  url: /Publications/
+
+- title: Join
+  url: /Join/
+
+- title: collaborators
+  url: /collaborators/
